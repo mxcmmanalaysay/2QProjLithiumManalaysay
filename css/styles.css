@@ -4,6 +4,20 @@ body, html {
 	height:100%;
 }
 
+table {
+	border:3px solid gray;
+	border-collapse:collapse;
+	cellpadding:4vw;
+}
+
+td:nth-child(odd),th:nth-child(odd){
+	background-color:lightgreen;
+}
+
+td:nth-child(even),th:nth-child(even){
+	background-color:tomato;
+}
+
 .header {
 	display:block;
 	background-color:#cccccc;
@@ -46,6 +60,7 @@ img.logo {
 	justify-content:flex-end;
 	align-items:center;
 	width:95vw;
+	position:sticky;
 }
 
 .hero-image {
@@ -220,10 +235,10 @@ img.logo {
 
 .subpagecont {
 	display:flex;
-	background-color:#a0a0a0;
 	flex-direction:column;
 	justify-content:space-between;
 	align-items:center;
+	position:relative;
 }
 
 .headline {
@@ -231,12 +246,14 @@ img.logo {
 	text-align:center;
 	color:black;
 	font-weight:bolder;
+	z-index:1;
 }
 
 .headlinimg {
 	width:70vw;
 	height:65vh;
 	border:1px solid black;
+	z-index:1;
 }
 
 iframe {
@@ -246,16 +263,26 @@ iframe {
 .caption {
 	width:70vw;
 	font-size:2vh;
-	color:#eeeeee;
+	color:#777777;
+	font-weight:bold;
 }
 
 .articont{
-	font-size:20px;
-	width:60vw;
+	font-size:15px;
+	width:50vw;
 	display:flex;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
+	z-index:5;
+	margin-bottom:3vw;
+	margin-top:3vw;
+}
+
+.sheader{
+	font-size:20px;
+	text-align:center;
+	font-weight:bold;
 }
 
 .chart{
@@ -271,4 +298,191 @@ iframe {
 	color:#eeeeee;
 	margin:5px;
 	text-align:left;
+}
+
+.coalplant{
+	position:absolute;
+	bottom:0;
+	right:68vw;
+	background:url('../images/Powerplant.svg') no-repeat -1vw 4.3vw;
+	filter: brightness(50%);
+	z-index:3;
+	width:31.3vw;
+	height:20vw;
+	padding:0;
+}
+
+@keyframes vapor{
+	0% {bottom:20vh;}
+	10% {opacity:30%; bottom:40vh;}
+	20% {opacity:45%; bottom:60vh;}
+	30% {bottom:80vh; transform:scale(1.1);}
+	40% {bottom:100vh; transform:scale(1.2);}
+	50% {bottom:120vh; transform:scale(1.3));}
+	60% {bottom:140vh; transform:scale(1.4);}
+	70% {bottom:160vh; transform:scale(1.5); opacity:30%}
+	80% {bottom:180vh; transform:scale(1.6); opacity:15%}
+	90% {bottom:200vh; transform:scale(1.7); opacity:7.5%}
+	100% {bottom:220vh; transform:scale(1.8); opacity:0%;}
+}
+
+.smoke{
+	position:absolute;
+	bottom:0;
+	right:70vw;
+	background:url('../images/smoke2.svg') no-repeat -1vw 4.3vw;
+	filter: brightness(50%);
+	z-index:2;
+	width:30vw;
+	height:30vw;
+	padding:0;
+	opacity:0%;
+	animation: vapor 15s linear 0s infinite normal;
+}
+
+@keyframes rotation{
+	from{transform:rotate(0deg);}
+	to{transform:rotate(360deg);}
+}
+
+.pole{
+	position:absolute;
+	bottom:0;
+	right:43.2vw;
+	background:url('../images/pole.svg') no-repeat -1vw 4.3vw;
+	z-index:1;
+	width:31.3vw;
+	height:20vw;
+	padding:0;
+	filter:brightness(80%);
+}
+
+.mill{
+	position:absolute;
+	bottom:3vw;
+	right:58.2vw;
+	background:url('../images/mill.svg') no-repeat -3px -7px;
+	background-size:cover;
+	z-index:2;
+	width:20vw;
+	height:20vw;
+	padding:0;
+	animation: rotation 20s linear 0s infinite normal;
+	filter:brightness(80%);
+}
+
+.hill {
+	position:absolute;
+	bottom:0vw;
+	background:url('../images/hills.svg') no-repeat;
+	background-size:cover;
+	z-index:0;
+	width:100%;
+	height:40vw;
+	padding:0;
+	filter:brightness(80%);
+}
+
+.panelr1 {
+	position:relative;
+	bottom:0vw;
+	left:2.5vw;
+	background:url('../images/panel.svg') repeat-x center;
+	z-index:2;
+	width:90vw;
+	height:10vw;
+	padding:0;
+	transform:skew(20deg);
+	filter:brightness(70%);
+	margin:0;
+	padding:0;
+}
+
+.panelr2 {
+	position:absolute;
+	bottom:1vw;
+	right:8vw;
+	background:url('../images/panel.svg') repeat-x center;
+	z-index:1;
+	width:90vw;
+	height:10vw;
+	padding:0;
+	transform:skew(20deg);
+	filter:brightness(60%);
+}
+
+.panelr3 {
+	position:absolute;
+	bottom:2vw;
+	left:2.5vw;
+	background:url('../images/panel.svg') repeat-x center;
+	z-index:0;
+	width:90vw;
+	height:10vw;
+	padding:0;
+	transform:skew(20deg);
+	filter:brightness(50%);
+}
+
+.sun {
+	position:absolute;
+	top:49.8vw;
+	right:24.9vw;
+	background:url('../images/sun.svg') no-repeat center;
+	background-size:cover;
+	z-index:0;
+	width:10vw;
+	height:10vw;
+	padding:0;
+}
+
+.rays{
+	position:absolute;
+	top:40vw;
+	left:54.1vw;
+	background:url('../images/rays.svg') no-repeat center;
+	background-size:cover;
+	z-index:0;
+	width:30vw;
+	height:30vw;
+	padding:0;
+	animation: rotation 30s linear 0s infinite normal;
+	filter:brightness(100%);
+}
+
+.nucplant{
+	position:absolute;
+	bottom:-9.1vw;
+	right:68vw;
+	background:url('../images/nuclearplant.svg') no-repeat -1vw 4.3vw;
+	z-index:3;
+	width:32vw;
+	height:30vw;
+	padding:0;
+}
+
+.vapor1{
+	position:absolute;
+	bottom:-60vw;
+	right:68vw;
+	background:url('../images/vapor3.svg') no-repeat;
+	z-index:2;
+	width:30vw;
+	height:30vw;
+	padding:0;
+	opacity:0%;
+	animation: vapor 15s linear 0s infinite normal;
+}
+
+.vapor2{
+	position:absolute;
+	bottom:-60vw;
+	right:55vw;
+	background:url('../images/vapor2.svg') no-repeat;
+	z-index:2;
+	width:30vw;
+	height:30vw;
+	padding:0;
+	opacity:0%;
+	animation: vapor 15s linear 3s infinite normal;
 }
