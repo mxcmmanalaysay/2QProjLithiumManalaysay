@@ -353,7 +353,7 @@ iframe {
 	position:absolute;
 	bottom:0;
 	right:43.2vw;
-	background:url('../images/pole.svg') no-repeat -1vw 4.3vw;
+	background:url('../images/Pole.svg') no-repeat -1vw 4.3vw;
 	z-index:1;
 	width:31.3vw;
 	height:20vw;
@@ -378,7 +378,7 @@ iframe {
 .hill {
 	position:absolute;
 	bottom:0vw;
-	background:url('../images/hills.svg') no-repeat;
+	background:url('../images/Hills.svg') no-repeat;
 	background-size:cover;
 	z-index:0;
 	width:100%;
@@ -391,7 +391,7 @@ iframe {
 	position:relative;
 	bottom:0vw;
 	left:2.5vw;
-	background:url('../images/panel.svg') repeat-x center;
+	background:url('../images/Panel.svg') repeat-x center;
 	z-index:3;
 	width:90vw;
 	height:10vw;
@@ -406,7 +406,7 @@ iframe {
 	position:absolute;
 	bottom:1vw;
 	right:8vw;
-	background:url('../images/panel.svg') repeat-x center;
+	background:url('../images/Panel.svg') repeat-x center;
 	z-index:2;
 	width:90vw;
 	height:10vw;
@@ -419,7 +419,7 @@ iframe {
 	position:absolute;
 	bottom:2vw;
 	left:2.5vw;
-	background:url('../images/panel.svg') repeat-x center;
+	background:url('../images/Panel.svg') repeat-x center;
 	z-index:1;
 	width:90vw;
 	height:10vw;
@@ -444,7 +444,7 @@ iframe {
 	position:absolute;
 	top:40vw;
 	left:54.1vw;
-	background:url('../images/rays.svg') no-repeat center;
+	background:url('../images/Rays.svg') no-repeat center;
 	background-size:cover;
 	z-index:0;
 	width:30vw;
@@ -458,7 +458,7 @@ iframe {
 	position:absolute;
 	bottom:-9.1vw;
 	right:68vw;
-	background:url('../images/nuclearplant.svg') no-repeat -1vw 4.3vw;
+	background:url('../images/Nuclearplant.svg') no-repeat -1vw 4.3vw;
 	z-index:3;
 	width:32vw;
 	height:30vw;
