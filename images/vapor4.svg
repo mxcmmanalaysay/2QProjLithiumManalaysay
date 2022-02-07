@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ezHes2Mxy4S11-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S11-fill-0" offset="0" stop-color="#faf9f6"/>
+      <stop id="ezHes2Mxy4S11-fill-1" offset="1" stop-color="#c0c3c8"/>
+    </linearGradient>
+    <linearGradient id="ezHes2Mxy4S13-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S13-fill-0" offset="0" stop-color="#d2dbed"/>
+      <stop id="ezHes2Mxy4S13-fill-1" offset="1" stop-color="#faf8f2"/>
+    </linearGradient>
+    <linearGradient id="ezHes2Mxy4S15-fill" x1="0.5" y1="0.416667" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S15-fill-0" offset="0" stop-color="#e8ecf3"/>
+      <stop id="ezHes2Mxy4S15-fill-1" offset="1" stop-color="#abafbf"/>
+    </linearGradient>
+  </defs>
+  <ellipse rx="22.916" ry="14.887" fill="#f2f5fb" stroke-width="0" cx="427.978" cy="307.153" style=""/>
+  <ellipse rx="43.629" ry="17.545" fill="url(#ezHes2Mxy4S11-fill)" stroke-width="0" cx="380.823" cy="291.734" style=""/>
+  <ellipse rx="49.799" ry="24.988" fill="#eef0f4" stroke-width="0" cx="374.653" cy="317.254" style=""/>
+  <ellipse rx="26.883" ry="20.204" fill="url(#ezHes2Mxy4S13-fill)" stroke-width="0" cx="424.011" cy="322.039" style=""/>
+  <ellipse rx="39.222" ry="13.292" fill="#c9ced8" stroke-width="0" cx="400.214" cy="343.838" style=""/>
+  <ellipse rx="31.29" ry="15.949" fill="url(#ezHes2Mxy4S15-fill)" stroke-width="0" cx="359.67" cy="333.204" style=""/>
+</svg>

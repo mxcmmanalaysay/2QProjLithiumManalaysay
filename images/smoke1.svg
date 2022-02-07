@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="eDIHlCdwoZQ9-fill" x1="0.469108" y1="0.064862" x2="0.640496" y2="0.302199" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ9-fill-0" offset="0" stop-color="#818181"/>
+      <stop id="eDIHlCdwoZQ9-fill-1" offset="1" stop-color="#453b28"/>
+    </linearGradient>
+    <linearGradient id="eDIHlCdwoZQ10-fill" x1="0.52964" y1="0.429493" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ10-fill-0" offset="0" stop-color="#3f3116"/>
+      <stop id="eDIHlCdwoZQ10-fill-1" offset="1" stop-color="#656157"/>
+    </linearGradient>
+    <linearGradient id="eDIHlCdwoZQ11-fill" x1="0.5" y1="0.048387" x2="0.4029" y2="0.725241" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ11-fill-0" offset="0" stop-color="#7a756a"/>
+      <stop id="eDIHlCdwoZQ11-fill-1" offset="1" stop-color="#4b412b"/>
+    </linearGradient>
+  </defs>
+  <ellipse rx="57.85" ry="25.63" fill="#818181" stroke-width="0" cx="131.433" cy="75.816"/>
+  <ellipse rx="85.423" ry="33.378" fill="url(#eDIHlCdwoZQ9-fill)" stroke-width="0" cx="131.433" cy="114.65"/>
+  <ellipse rx="74.069" ry="39.43" fill="url(#eDIHlCdwoZQ10-fill)" stroke-width="0" cx="159.71" cy="146.874"/>
+  <ellipse rx="67.582" ry="36.954" fill="url(#eDIHlCdwoZQ11-fill)" stroke-width="0" cx="172.835" cy="114.65"/>
+</svg>

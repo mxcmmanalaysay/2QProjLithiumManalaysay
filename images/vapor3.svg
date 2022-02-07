@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ezHes2Mxy4S5-fill" x1="0.5" y1="0.279041" x2="0.478992" y2="0.8" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S5-fill-0" offset="0" stop-color="#edf4ff"/>
+      <stop id="ezHes2Mxy4S5-fill-1" offset="0.6545" stop-color="#dadde3"/>
+    </linearGradient>
+    <linearGradient id="ezHes2Mxy4S7-fill" x1="0.5" y1="0.478261" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S7-fill-0" offset="0" stop-color="#e7edf8"/>
+      <stop id="ezHes2Mxy4S7-fill-1" offset="1" stop-color="#dcd6c8"/>
+    </linearGradient>
+    <linearGradient id="ezHes2Mxy4S8-fill" x1="0.5" y1="0.369622" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S8-fill-0" offset="0" stop-color="#dee1e6"/>
+      <stop id="ezHes2Mxy4S8-fill-1" offset="1" stop-color="#c6c5c3"/>
+    </linearGradient>
+    <linearGradient id="ezHes2Mxy4S9-fill" x1="0.5" y1="0.5" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="ezHes2Mxy4S9-fill-0" offset="0" stop-color="#e4e7ed"/>
+      <stop id="ezHes2Mxy4S9-fill-1" offset="1" stop-color="#c5bfb5"/>
+    </linearGradient>
+  </defs>
+  <ellipse rx="52.443" ry="29.242" fill="url(#ezHes2Mxy4S5-fill)" stroke-width="0" cx="116.406" cy="238.568" style=""/>
+  <ellipse rx="34.374" ry="17.04" fill="#e0e6f1" stroke-width="0" cx="183.832" cy="250.77" style=""/>
+  <ellipse rx="40.544" ry="24.457" fill="url(#ezHes2Mxy4S7-fill)" stroke-width="0" cx="81.591" cy="267.809" style=""/>
+  <ellipse rx="67.867" ry="24.457" fill="url(#ezHes2Mxy4S8-fill)" stroke-width="0" cx="130.067" cy="267.809" style=""/>
+  <ellipse rx="43.629" ry="18.077" fill="url(#ezHes2Mxy4S9-fill)" stroke-width="0" cx="193.087" cy="274.189" style=""/>
+</svg>

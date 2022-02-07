@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="e0n8UxBtgmX20-fill" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX20-fill-0" offset="0" stop-color="#4b4132"/>
+      <stop id="e0n8UxBtgmX20-fill-1" offset="1" stop-color="#40331d"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX22-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX22-fill-0" offset="0" stop-color="#594f3d"/>
+      <stop id="e0n8UxBtgmX22-fill-1" offset="1" stop-color="#756952"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX27-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX27-fill-0" offset="0.42" stop-color="#594f3d"/>
+      <stop id="e0n8UxBtgmX27-fill-1" offset="1" stop-color="#453c2b"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX31-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX31-fill-0" offset="0.37" stop-color="#594f3d"/>
+      <stop id="e0n8UxBtgmX31-fill-1" offset="1" stop-color="#433a2d"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX32-fill" x1="0.5" y1="1" x2="0.5" y2="0" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX32-fill-0" offset="0" stop-color="#473e2d"/>
+      <stop id="e0n8UxBtgmX32-fill-1" offset="1" stop-color="#736651"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX33-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX33-fill-0" offset="0.31" stop-color="#594f3d"/>
+      <stop id="e0n8UxBtgmX33-fill-1" offset="1" stop-color="#35322d"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX37-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX37-fill-0" offset="0.17" stop-color="#635742"/>
+      <stop id="e0n8UxBtgmX37-fill-1" offset="1" stop-color="#403c32"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX39-fill" x1="0.67101" y1="0.969846" x2="0.32899" y2="0.030154" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX39-fill-0" offset="0" stop-color="#3e3931"/>
+      <stop id="e0n8UxBtgmX39-fill-1" offset="0.75" stop-color="#594f3d"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX40-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX40-fill-0" offset="0" stop-color="#807157"/>
+      <stop id="e0n8UxBtgmX40-fill-1" offset="1" stop-color="#594f3d"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX42-fill" x1="0.5" y1="1" x2="0.5" y2="0" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX42-fill-0" offset="0" stop-color="#292622"/>
+      <stop id="e0n8UxBtgmX42-fill-1" offset="1" stop-color="#655a45"/>
+    </linearGradient>
+    <linearGradient id="e0n8UxBtgmX43-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="e0n8UxBtgmX43-fill-0" offset="0.22" stop-color="#594f3d"/>
+      <stop id="e0n8UxBtgmX43-fill-1" offset="1" stop-color="#3b362f"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="319.801" y1="-2.521" x2="319.801" y2="504.249" id="gradient-0" gradientTransform="matrix(0.999982, 0.006082, -0.003408, 0.560357, 1.724439, 219.744598)">
+      <stop offset="0" style="stop-color: rgb(53, 39, 19);"/>
+      <stop offset="1" style="stop-color: rgb(9, 7, 6);"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="506.77" stroke-width="0" x="-0.199" y="-2.521" style="fill: url(#gradient-0); fill-rule: nonzero;"/>
+  <ellipse rx="55.939" ry="19.256" fill="#35322d" stroke-width="0" cx="524.478" cy="37.51" style=""/>
+  <ellipse rx="26.887" ry="11.072" fill="#35322d" stroke-width="0" cx="597.851" cy="41.762" style=""/>
+  <ellipse rx="30.087" ry="9.147" fill="#35322d" stroke-width="0" cx="567.763" cy="55.643" style=""/>
+  <ellipse rx="32.648" ry="16.809" fill="#35322d" stroke-width="0" cx="34.171" cy="60.958" style=""/>
+  <ellipse rx="34.419" ry="14.422" fill="#35322d" stroke-width="0" cx="605.383" cy="60.958" style=""/>
+  <ellipse rx="30.727" ry="18.454" fill="#35322d" stroke-width="0" cx="499.267" cy="36.707" style=""/>
+  <ellipse rx="41.61" ry="15.164" fill="#35322d" stroke-width="0" cx="443.253" cy="29.907" style=""/>
+  <ellipse rx="39.69" ry="19.718" fill="#35322d" stroke-width="0" cx="445.493" cy="45.072" style=""/>
+  <ellipse rx="23.686" ry="20.219" fill="#35322d" stroke-width="0" cx="444.854" cy="55.161" style=""/>
+  <ellipse rx="87.061" ry="30.971" fill="#35322d" stroke-width="0" cx="334.106" cy="49.224" style=""/>
+  <ellipse rx="45.772" ry="30.329" fill="#35322d" stroke-width="0" cx="311.38" cy="38.312" style=""/>
+  <ellipse rx="63.375" ry="19.718" fill="#35322d" stroke-width="0" cx="229.76" cy="45.072" style=""/>
+  <ellipse rx="12.163" ry="10.912" fill="#35322d" stroke-width="0" cx="168.305" cy="45.854" style=""/>
+  <ellipse rx="38.889" ry="7.021" fill="#35322d" stroke-width="0" cx="208.155" cy="49.746" style=""/>
+  <ellipse rx="40.33" ry="17.371" fill="#35322d" stroke-width="0" cx="206.715" cy="25.354" style=""/>
+  <ellipse rx="72.338" ry="24.472" fill="#35322d" stroke-width="0" cx="94.047" cy="42.725" style=""/>
+  <ellipse rx="28.487" ry="21.864" fill="#35322d" stroke-width="0" cx="169.266" cy="20.861" style=""/>
+  <ellipse rx="40.827" ry="24.389" transform="matrix(0.974328, 0.225133, -0.223984, 0.974594, 44.471855, 92.39119)" fill="url(#e0n8UxBtgmX20-fill)" stroke-width="0" style=""/>
+  <ellipse rx="31.293" ry="10.591" fill="#594f3d" stroke-width="0" cx="73.636" cy="64.79" style=""/>
+  <ellipse rx="48.652" ry="34.02" fill="url(#e0n8UxBtgmX22-fill)" stroke-width="0" cx="131.817" cy="80.516" style=""/>
+  <ellipse rx="40.33" ry="10.912" fill="#594f3d" stroke-width="0" cx="99.169" cy="106.192" style=""/>
+  <ellipse rx="32.008" ry="16.047" fill="#594f3d" stroke-width="0" cx="212.476" cy="111.326" style=""/>
+  <ellipse rx="66.576" ry="25.996" fill="#594f3d" stroke-width="0" cx="247.045" cy="80.195" style=""/>
+  <ellipse rx="39.05" ry="12.998" fill="#594f3d" stroke-width="0" cx="200.313" cy="60.958" style=""/>
+  <ellipse rx="67.857" ry="20.54" fill="url(#e0n8UxBtgmX27-fill)" stroke-width="0" cx="344.349" cy="115.819" style=""/>
+  <ellipse rx="82.58" ry="15.405" fill="#594f3d" stroke-width="0" cx="329.625" cy="90.786" style=""/>
+  <ellipse rx="72.338" ry="42.364" fill="#594f3d" stroke-width="0" cx="457.656" cy="85.009" style=""/>
+  <ellipse rx="21.125" ry="15.084" fill="#594f3d" stroke-width="0" cx="265.609" cy="121.276" style=""/>
+  <ellipse rx="106.266" ry="23.75" fill="url(#e0n8UxBtgmX31-fill)" stroke-width="0" cx="121.574" cy="119.029" style=""/>
+  <ellipse rx="29.164" ry="18.294" fill="url(#e0n8UxBtgmX32-fill)" stroke-width="0" cx="44.472" cy="109.08" style=""/>
+  <ellipse rx="113.628" ry="41.081" fill="url(#e0n8UxBtgmX33-fill)" stroke-width="0" cx="447.734" cy="95.279" style=""/>
+  <ellipse rx="50.914" ry="36.708" fill="#594f3d" stroke-width="0" cx="588.888" cy="90.666" style=""/>
+  <ellipse rx="47.223" ry="22.145" fill="#594f3d" stroke-width="0" cx="533.195" cy="68.641" style=""/>
+  <ellipse rx="82.58" ry="12.998" fill="#594f3d" stroke-width="0" cx="369.314" cy="67.197" style=""/>
+  <ellipse rx="66.576" ry="20.54" fill="url(#e0n8UxBtgmX37-fill)" stroke-width="0" cx="247.045" cy="115.819" style=""/>
+  <ellipse rx="41.61" ry="18.775" fill="#594f3d" stroke-width="0" cx="197.753" cy="87.416" style=""/>
+  <ellipse rx="37.769" ry="14.763" fill="url(#e0n8UxBtgmX39-fill)" stroke-width="0" cx="101.729" cy="99.772" style=""/>
+  <ellipse rx="17.605" ry="9.388" fill="url(#e0n8UxBtgmX40-fill)" stroke-width="0" cx="81.564" cy="81.398" style=""/>
+  <ellipse rx="9.96" ry="7.382" fill="#594f3d" stroke-width="0" cx="63.677" cy="92.391" style=""/>
+  <ellipse rx="50.722" ry="24.071" fill="url(#e0n8UxBtgmX42-fill)" stroke-width="0" cx="52.245" cy="104.265" style=""/>
+  <ellipse rx="59.385" ry="10.591" fill="url(#e0n8UxBtgmX43-fill)" stroke-width="0" cx="580.417" cy="116.782" style=""/>
+</svg>

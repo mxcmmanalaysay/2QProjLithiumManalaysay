@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="eDIHlCdwoZQ14-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ14-fill-0" offset="0" stop-color="#4c402c"/>
+      <stop id="eDIHlCdwoZQ14-fill-1" offset="1" stop-color="#474716"/>
+    </linearGradient>
+    <linearGradient id="eDIHlCdwoZQ15-fill" x1="0.5" y1="0" x2="0.5" y2="0.691418" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ15-fill-0" offset="0" stop-color="#5d5f65"/>
+      <stop id="eDIHlCdwoZQ15-fill-1" offset="1" stop-color="#43320e"/>
+    </linearGradient>
+    <linearGradient id="eDIHlCdwoZQ17-fill" x1="0.116981" y1="0.384615" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ17-fill-0" offset="0" stop-color="#423e22"/>
+      <stop id="eDIHlCdwoZQ17-fill-1" offset="1" stop-color="#231c0c"/>
+    </linearGradient>
+    <linearGradient id="eDIHlCdwoZQ18-fill" x1="0.925163" y1="0.5" x2="0.28299" y2="0.636364" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eDIHlCdwoZQ18-fill-0" offset="0.2397" stop-color="#474231"/>
+      <stop id="eDIHlCdwoZQ18-fill-1" offset="1" stop-color="#2e2207"/>
+    </linearGradient>
+  </defs>
+  <ellipse rx="30.315" ry="17.973" fill="url(#eDIHlCdwoZQ14-fill)" stroke-width="0" cx="343.587" cy="409.485"/>
+  <ellipse rx="44.164" ry="35.847" fill="url(#eDIHlCdwoZQ15-fill)" stroke-width="0" cx="334.329" cy="355.666"/>
+  <ellipse rx="56.953" ry="19.898" fill="#423e22" stroke-width="0" cx="370.225" cy="375.466"/>
+  <ellipse rx="39.573" ry="16.689" fill="url(#eDIHlCdwoZQ17-fill)" stroke-width="0" cx="373.902" cy="395.364"/>
+  <ellipse rx="53.09" ry="28.243" fill="url(#eDIHlCdwoZQ18-fill)" stroke-width="0" cx="298.444" cy="383.81"/>
+</svg>

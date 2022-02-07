@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="eMSRplzGZ5y1" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="eMSRplzGZ5y2-fill" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eMSRplzGZ5y2-fill-0" offset="0" style="stop-color: rgb(237, 241, 255);"/>
+      <stop id="eMSRplzGZ5y2-fill-1" offset="1" style="stop-color: rgb(109, 149, 229);"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" rx="0" ry="0" fill="url(#eMSRplzGZ5y2-fill)" stroke-width="0"/>
+</svg>
